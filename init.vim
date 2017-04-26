@@ -6,6 +6,10 @@ Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
 " UI
 Plug 'vim-airline/vim-airline'
 Plug 'tpope/vim-fugitive'
+Plug 'jiangmiao/auto-pairs'
+
+" HTML
+Plug 'mattn/emmet-vim'
 
 " deps
 Plug 'Shougo/vimproc.vim', {'do' : 'make'}
